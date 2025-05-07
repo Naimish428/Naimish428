@@ -10,9 +10,6 @@
   <a href="#"><img src="https://img.shields.io/badge/Location-Odisha%2C%20India-orange?style=flat-square&logo=google-maps"></a>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naimish428&show_icons=true&count_private=true&hide_border=true&title_color=0D6EFD&icon_color=0D6EFD&text_color=c9d1d9&bg_color=0d1117" alt="Naimish Padhan's GitHub Stats" />
-</div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
 
@@ -87,7 +84,8 @@ As a Data Scientist with a B.Sc. in Statistics and a Master's in Data Science an
   </table>
 </div>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Let's Connect & Collaborate
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Let's Connect & Collaborate
+
 <div align="center">
   <a href="https://github.com/Naimish428">
     <img src="https://img.shields.io/github/followers/Naimish428?label=Follow&style=social" alt="GitHub followers">
