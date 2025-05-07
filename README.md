@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.gif" width="40" />
-  Welcome to my <span style="color:#00bfff;">Digital</span> <span style="color:#ff69b4;">Space!</span>
+  <span style="font-size: 2.5rem;">👋</span> Welcome to my <span style="color:#00bfff;">Digital</span> <span style="color:#ff69b4;">Space!</span>
 </h1>
+
 
 
 
