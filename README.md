@@ -8,8 +8,9 @@
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Naimish+Padhan;Data+Scientist+%26+ML+Enthusiast;Turning+Data+into+Decisions;Building+AI-Powered+Solutions&color=0D6EFD,FF6F00,217346,E97627,FF4500,276DC3,5C2D91" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Naimish+Padhan;Data+Scientist+%26+ML+Enthusiast;Turning+Data+into+Decisions;Building+AI-Powered+Solutions&color=FF0000,FF6F00,217346,E97627,FF4500,FF0000,5C2D91" alt="Typing SVG" />
 </div>
+
 
 <div align="center">
   <a href="mailto:naimishpadhan428@gmail.com"><img src="https://img.shields.io/badge/Email-naimishpadhan428%40gmail.com-red?style=flat-square&logo=gmail"></a>
