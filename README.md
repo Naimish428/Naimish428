@@ -1,8 +1,56 @@
-<div align="center">
-  <div style="background-color: #ff3333; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin-bottom: 20px;">
-    <h1 style="color: white; font-size: 32px; margin: 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">👋 Welcome to my Digital Space!</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Welcome Heading</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      color: white;
+    }
+
+    .heading {
+      font-size: 3rem;
+      text-align: center;
+      position: relative;
+      background: rgba(255, 255, 255, 0.1);
+      padding: 1rem 2rem;
+      border-radius: 20px;
+      backdrop-filter: blur(10px);
+      box-shadow: 0 8px 32px rgba(0,0,0,0.3);
+    }
+
+    .wave {
+      display: inline-block;
+      animation: wave-animation 2s infinite;
+      transform-origin: 70% 70%;
+    }
+
+    @keyframes wave-animation {
+      0% { transform: rotate(0deg); }
+      15% { transform: rotate(14deg); }
+      30% { transform: rotate(-8deg); }
+      45% { transform: rotate(14deg); }
+      60% { transform: rotate(-4deg); }
+      75% { transform: rotate(10deg); }
+      100% { transform: rotate(0deg); }
+    }
+  </style>
+</head>
+<body>
+  <div class="heading">
+    <span class="wave">👋</span> Welcome to my Digital Space!
   </div>
-</div>
+</body>
+</html>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Naimish+Padhan;Data+Scientist+%26+ML+Enthusiast;Turning+Data+into+Decisions;Building+AI-Powered+Solutions&color=0D6EFD,FF6F00,217346,E97627,FF4500,276DC3,5C2D91" alt="Typing SVG" />
