@@ -1,55 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Welcome Heading</title>
-  <style>
-    body {
-      margin: 0;
-      padding: 0;
-      background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      color: white;
-    }
-
-    .heading {
-      font-size: 3rem;
-      text-align: center;
-      position: relative;
-      background: rgba(255, 255, 255, 0.1);
-      padding: 1rem 2rem;
-      border-radius: 20px;
-      backdrop-filter: blur(10px);
-      box-shadow: 0 8px 32px rgba(0,0,0,0.3);
-    }
-
-    .wave {
-      display: inline-block;
-      animation: wave-animation 2s infinite;
-      transform-origin: 70% 70%;
-    }
-
-    @keyframes wave-animation {
-      0% { transform: rotate(0deg); }
-      15% { transform: rotate(14deg); }
-      30% { transform: rotate(-8deg); }
-      45% { transform: rotate(14deg); }
-      60% { transform: rotate(-4deg); }
-      75% { transform: rotate(10deg); }
-      100% { transform: rotate(0deg); }
-    }
-  </style>
-</head>
-<body>
-  <div class="heading">
-    <span class="wave">👋</span> Welcome to my Digital Space!
-  </div>
-</body>
-</html>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="waving hand" /> 
+  Welcome to my <span style="color:#ff6600;">Digital Space!</span>
+</h1>
 
 
 <div align="center">
