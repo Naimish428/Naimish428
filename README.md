@@ -7,7 +7,7 @@
 <div align="center">
   <a href="mailto:naimishpadhan428@gmail.com"><img src="https://img.shields.io/badge/Email-naimishpadhan428%40gmail.com-red?style=flat-square&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/naimish-padhan/"><img src="https://img.shields.io/badge/LinkedIn-naimish--padhan-blue?style=flat-square&logo=linkedin"></a>
-  <a href="tel:+916371637395"><img src="https://img.shields.io/badge/Phone-%2B91%206371637395-green?style=flat-square&logo=whatsapp"></a>
+  <a><img src="https://img.shields.io/badge/Phone-%2B91%206371637395-green?style=flat-square&logo=whatsapp"></a>
   <a href="#"><img src="https://img.shields.io/badge/Location-Odisha%2C%20India-orange?style=flat-square&logo=google-maps"></a>
 </div>
 
