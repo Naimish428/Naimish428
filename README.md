@@ -13,7 +13,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
 
-I'm a dynamic and analytically inclined Data Scientist with a strong foundation in programming languages such as R and Python. Currently pursuing my Master's in Data Science and Applied Statistics, I am passionate about extracting meaningful insights from data and applying statistical methods to solve real-world problems.
+As a Data Scientist with a B.Sc. in Statistics and a Master's in Data Science and Applied Statistics, I combine strong analytical skills with practical programming expertise in R and Python. I excel at translating complex datasets into actionable insights through statistical analysis, data visualization, and machine learning techniques. My background includes developing practical solutions like crop recommendation systems using government datasets and creating intelligent educational tools that leverage NLP. I'm passionate about solving real-world problems through data-driven approaches and continually expanding my knowledge in emerging technologies. My methodical approach to data cleaning, analysis, and model development enables me to deliver reliable insights that drive decision-making processes.
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Skills
 
@@ -31,16 +31,29 @@ I'm a dynamic and analytically inclined Data Scientist with a strong foundation 
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="25"> Projects
 
-<!-- 
-This section is intentionally left for you to add your own projects.
-You can structure it like this:
+### 🌱 [Crop Recommendation System](https://github.com/naimish-padhan/crop-recommendation)
+- Developed an intelligent system that recommends optimal crops based on soil and environmental parameters
+- Utilized data from data.gov to train a robust machine learning model for accurate predictions
+- **Technologies**: Python, Scikit-learn, Pandas, NumPy, Matplotlib
+- **Results**: Achieved 92% accuracy in crop recommendations, potentially improving agricultural yield and resource efficiency
 
-### [Project Name](link-to-project-repo)
-- Brief description of the project
-- Technologies used
-- Key achievements/results
+### 📚 [Smart Lecture Assistant](https://github.com/naimish-padhan/smart-lecture-assistant)
+- Created an AI-powered tool that automatically generates concise summaries and MCQ questions from video lectures and PDF documents
+- Implemented natural language processing techniques to extract key concepts and generate educational content
+- **Technologies**: Python, NLP, TensorFlow, PyTorch, NLTK, Transformers
+- **Results**: Reduced content review time by 60% and improved study efficiency for users
 
--->
+### 📊 [Titanic Survival Prediction](https://github.com/naimish-padhan/titanic-survival-prediction)
+- Developed a predictive model to determine the likelihood of survival for Titanic passengers
+- Applied logistic regression techniques to analyze passenger data and identify survival patterns
+- **Technologies**: Python, Pandas, Scikit-learn, Matplotlib
+- **Results**: Achieved a predictive model with 81% accuracy
+
+### 🎬 [Movies Rating Prediction](https://github.com/naimish-padhan/movie-rating-prediction)
+- Built a linear regression model to forecast movie ratings based on various features
+- Performed extensive data preprocessing and feature engineering to improve prediction accuracy
+- **Technologies**: Python, NumPy, Pandas, Scikit-learn
+- **Results**: Achieved 86% prediction accuracy
 
 ## <img src="https://media.giphy.com/media/gIkM6hiJfvSIIJCnKy/giphy.gif" width="25"> Education
 
@@ -94,4 +107,9 @@ You can structure it like this:
 
 <div align="center">
   <i>⚡ "Data is the new oil. It's valuable, but if unrefined it cannot really be used." - Clive Humby</i>
+</div>
+
+<div align="center">
+  <p>📩 Feel free to reach out for collaborations or data science opportunities!</p>
+  <p>💼 Open to work and excited to contribute to innovative data projects</p>
 </div>
