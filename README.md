@@ -1,13 +1,17 @@
-# <div align="center">👋 Hello, I'm Naimish Padhan</div>
+# <div align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Welcome to my Digital Space!</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=0D6EFD&center=true&vCenter=true&width=435&lines=Data+Scientist;Aspiring+ML+Engineer;Analytics+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=0D6EFD&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Naimish+Padhan;Data+Scientist+%26+ML+Enthusiast;Turning+Data+into+Decisions;Building+AI-Powered+Solutions" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <a href="mailto:naimishpadhan428@gmail.com"><img src="https://img.shields.io/badge/Email-naimishpadhan428%40gmail.com-red?style=flat-square&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/naimish-padhan/"><img src="https://img.shields.io/badge/LinkedIn-naimish--padhan-blue?style=flat-square&logo=linkedin"></a>
   <a href="#"><img src="https://img.shields.io/badge/Location-Odisha%2C%20India-orange?style=flat-square&logo=google-maps"></a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Naimish428&show_icons=true&count_private=true&hide_border=true&title_color=0D6EFD&icon_color=0D6EFD&text_color=c9d1d9&bg_color=0d1117" alt="Naimish Padhan's GitHub Stats" />
 </div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
@@ -83,29 +87,35 @@ As a Data Scientist with a B.Sc. in Statistics and a Master's in Data Science an
   </table>
 </div>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Support Me
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25"> Current Learning Journey
 
 <div align="center">
-  <a href="https://www.buymeacoffee.com/naimishpadhan" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naimish428&theme=dark&hide_border=true&background=0D1117&stroke=0D6EFD&ring=0D6EFD&currStreakLabel=0D6EFD" alt="GitHub Streak Stats" />
+</div>
+
+I'm currently diving deeper into:
+- 🧠 Large Language Models and their applications in business
+- 📊 Advanced time series forecasting techniques
+- 🔄 MLOps and automating the machine learning lifecycle
+- 🌐 Edge computing for real-time AI applications
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Let's Connect & Collaborate
+
+<div align="center">
+  <a href="https://github.com/Naimish428">
+    <img src="https://img.shields.io/github/followers/Naimish428?label=Follow&style=social" alt="GitHub followers">
   </a>
+  <img src="https://komarev.com/ghpvc/?username=Naimish428&color=blue" alt="Profile Views" />
 </div>
 
 <div align="center">
-  <p>Your support helps me continue creating open-source projects and tutorials!</p>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake Animation" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Naimish428&color=blue" alt="Profile Views" />
-  <a href="https://github.com/Naimish428?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Naimish428?style=social">
-  </a>
-</div>
-
-<div align="center">
-  <i>⚡ "Data is the new oil. It's valuable, but if unrefined it cannot really be used." - Clive Humby</i>
+  <i>⚡ "The goal is to turn data into information, and information into insight." - Carly Fiorina</i>
 </div>
 
 <div align="center">
