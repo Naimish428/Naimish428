@@ -37,13 +37,13 @@ As a Data Scientist with a B.Sc. in Statistics and a Master's in Data Science an
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="25"> Projects
 
-### 🌱 [Crop Recommendation System](https://github.com/naimish-padhan/crop-recommendation)
+### 🌱 [Crop Recommendation System](https://github.com/Naimish428/crop-recommendation)
 - Developed an intelligent system that recommends optimal crops based on soil and environmental parameters
 - Utilized data from data.gov to train a robust machine learning model for accurate predictions
 - **Technologies**: Python, Scikit-learn, Pandas, NumPy, Matplotlib
 - **Results**: Achieved 92% accuracy in crop recommendations, potentially improving agricultural yield and resource efficiency
 
-### 📚 [Smart Lecture Assistant](https://github.com/naimish-padhan/smart-lecture-assistant)
+### 📚 [Smart Lecture Assistant](https://github.com/Naimish428/smart-lecture-assistant)
 - Created an AI-powered tool that automatically generates concise summaries and MCQ questions from video lectures and PDF documents
 - Implemented natural language processing techniques to extract key concepts and generate educational content
 - **Technologies**: Python, NLP, TensorFlow, PyTorch, NLTK, Transformers
@@ -86,36 +86,36 @@ As a Data Scientist with a B.Sc. in Statistics and a Master's in Data Science an
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/naimish-padhan">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naimish-padhan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naimish-padhan&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/Naimish428">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Naimish427&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naimish428&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/naimish-padhan">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=naimish-padhan&theme=tokyonight" alt="GitHub Streak" />
+  <a href="https://github.com/Naimish428">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naimish428&theme=tokyonight" alt="GitHub Streak" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/naimish-padhan">
-    <img src="https://github-profile-trophy.vercel.app/?username=naimish-padhan&theme=tokyonight&row=1&column=6" alt="trophy" />
+  <a href="https://github.com/Naimish428">
+    <img src="https://github-profile-trophy.vercel.app/?username=Naimish428&theme=tokyonight&row=1&column=6" alt="trophy" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/naimish-padhan">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naimish-padhan&theme=tokyonight" />
+  <a href="https://github.com/Naimish428">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naimish428&theme=tokyonight" />
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=naimish-padhan&color=blue" alt="Profile Views" />
-  <a href="https://github.com/naimish-padhan?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/naimish-padhan?style=social">
+  <img src="https://komarev.com/ghpvc/?username=Naimish428&color=blue" alt="Profile Views" />
+  <a href="https://github.com/Naimish428?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Naimish428?style=social">
   </a>
 </div>
 
