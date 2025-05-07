@@ -40,13 +40,13 @@ As a Data Scientist with a B.Sc. in Statistics and a Master's in Data Science an
 ### 🌱 [Crop Recommendation System](https://github.com/Naimish428/Crop-recommendation-System)
 - Developed an intelligent system that recommends optimal crops based on soil and environmental parameters
 - Utilized data from data.gov to train a robust machine learning model for accurate predictions
-- **Technologies**: Python, Scikit-learn, Pandas, NumPy, Matplotlib
-- **Results**: Achieved 92% accuracy in crop recommendations, potentially improving agricultural yield and resource efficiency
+- **Technologies**: Python, Scikit-learn, Pandas, NumPy, Flask, HTML & CSS
+- **Results**: Achieved 79% accuracy in crop recommendations, potentially improving agricultural yield and resource efficiency
 
 ### 📚 [Smart Lecture Assistant](https://github.com/Naimish428/Smart-Lecture-Assistant)
 - Created an AI-powered tool that automatically generates concise summaries and MCQ questions from video lectures and PDF documents
 - Implemented natural language processing techniques to extract key concepts and generate educational content
-- **Technologies**: Python, NLP, TensorFlow, PyTorch, NLTK, Transformers
+- **Technologies**: Python, Flask, Google Gemini Pro, OpenAI Whisper, PyMuPDF, Google Translate, FPDF, HTML/CSS/JS
 - **Results**: Reduced content review time by 60% and improved study efficiency for users
 
 ## <img src="https://media.giphy.com/media/gIkM6hiJfvSIIJCnKy/giphy.gif" width="25"> Education
