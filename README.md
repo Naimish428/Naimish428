@@ -87,19 +87,6 @@ As a Data Scientist with a B.Sc. in Statistics and a Master's in Data Science an
   </table>
 </div>
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25"> Current Learning Journey
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naimish428&theme=dark&hide_border=true&background=0D1117&stroke=0D6EFD&ring=0D6EFD&currStreakLabel=0D6EFD" alt="GitHub Streak Stats" />
-</div>
-
-I'm currently diving deeper into:
-- 🧠 Large Language Models and their applications in business
-- 📊 Advanced time series forecasting techniques
-- 🔄 MLOps and automating the machine learning lifecycle
-- 🌐 Edge computing for real-time AI applications
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Let's Connect & Collaborate
 
 <div align="center">
   <a href="https://github.com/Naimish428">
