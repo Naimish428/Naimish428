@@ -37,13 +37,13 @@ As a Data Scientist with a B.Sc. in Statistics and a Master's in Data Science an
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="25"> Projects
 
-### 🌱 [Crop Recommendation System](https://github.com/Naimish428/crop-recommendation)
+### 🌱 [Crop Recommendation System](https://github.com/Naimish428/Crop-recommendation-System)
 - Developed an intelligent system that recommends optimal crops based on soil and environmental parameters
 - Utilized data from data.gov to train a robust machine learning model for accurate predictions
 - **Technologies**: Python, Scikit-learn, Pandas, NumPy, Matplotlib
 - **Results**: Achieved 92% accuracy in crop recommendations, potentially improving agricultural yield and resource efficiency
 
-### 📚 [Smart Lecture Assistant](https://github.com/Naimish428/smart-lecture-assistant)
+### 📚 [Smart Lecture Assistant](https://github.com/Naimish428/Smart-Lecture-Assistant)
 - Created an AI-powered tool that automatically generates concise summaries and MCQ questions from video lectures and PDF documents
 - Implemented natural language processing techniques to extract key concepts and generate educational content
 - **Technologies**: Python, NLP, TensorFlow, PyTorch, NLTK, Transformers
@@ -87,7 +87,7 @@ As a Data Scientist with a B.Sc. in Statistics and a Master's in Data Science an
 
 <div align="center">
   <a href="https://github.com/Naimish428">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Naimish427&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Naimish428&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naimish428&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
