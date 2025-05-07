@@ -1,10 +1,11 @@
 <h1 align="center">
-  👋 <span style="color:#ff6ec4;">Welcome</span> 
-  <span style="color:#7873f5;">to my</span> 
-  <span style="color:#28c76f;">Digital</span> 
-  <span style="color:#f9ca24;">Space!</span>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="👋">
+  <span style="color: #FF5733;">Welcome</span>
+  <span style="color: #FFC300;">to</span>
+  <span style="color: #28B463;">my</span>
+  <span style="color: #5DADE2;">Digital</span>
+  <span style="color: #AF7AC5;">Space!</span>
 </h1>
-
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Naimish+Padhan;Data+Scientist+%26+ML+Enthusiast;Turning+Data+into+Decisions;Building+AI-Powered+Solutions&color=0D6EFD,FF6F00,217346,E97627,FF4500,276DC3,5C2D91" alt="Typing SVG" />
