@@ -1,8 +1,9 @@
 <h1 align="center">
-  <span style="font-size: 2.5rem;">👋</span> Welcome to my <span style="color:#00bfff;">Digital</span> <span style="color:#ff69b4;">Space!</span>
+  👋 <span style="color:#ff6ec4;">Welcome</span> 
+  <span style="color:#7873f5;">to my</span> 
+  <span style="color:#28c76f;">Digital</span> 
+  <span style="color:#f9ca24;">Space!</span>
 </h1>
-
-
 
 
 <div align="center">
