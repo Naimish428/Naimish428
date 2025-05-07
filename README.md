@@ -1,7 +1,8 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="waving hand" /> 
-  Welcome to my <span style="color:#ff6600;">Digital Space!</span>
+  <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.gif" width="40" />
+  Welcome to my <span style="color:#00bfff;">Digital</span> <span style="color:#ff69b4;">Space!</span>
 </h1>
+
 
 
 <div align="center">
