@@ -87,7 +87,7 @@ As a Data Scientist with a B.Sc. in Statistics and a Master's in Data Science an
   </table>
 </div>
 
-
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Let's Connect & Collaborate
 <div align="center">
   <a href="https://github.com/Naimish428">
     <img src="https://img.shields.io/github/followers/Naimish428?label=Follow&style=social" alt="GitHub followers">
