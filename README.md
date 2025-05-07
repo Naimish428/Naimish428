@@ -1,7 +1,7 @@
-# <div align="center"><span style="background-image: linear-gradient(to right, #ff5f6d, #ffc371, #2196f3, #4CAF50, #9C27B0); -webkit-background-clip: text; color: transparent; font-weight: bold;">Welcome to my Digital Space!</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></div>
+# <div align="center"><span style="background-image: linear-gradient(to right, #ff0000, #ff7f00, #ffff00, #00ff00, #0000ff, #4b0082, #8b00ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">👋 Welcome to my Digital Space!</span></div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=gradient&colors=ff5f6d,ffc371,2196f3,4CAF50,9C27B0&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Naimish+Padhan;Data+Scientist+%26+ML+Enthusiast;Turning+Data+into+Decisions;Building+AI-Powered+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=GRADIENT&background=45FFFA00&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Naimish+Padhan;Data+Scientist+%26+ML+Enthusiast;Turning+Data+into+Decisions;Building+AI-Powered+Solutions&multiline=true" alt="Typing SVG" />
 </div>
 
 <div align="center">
