@@ -83,31 +83,16 @@ As a Data Scientist with a B.Sc. in Statistics and a Master's in Data Science an
   </table>
 </div>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Stats
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Support Me
 
 <div align="center">
-  <a href="https://github.com/Naimish428">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Naimish428&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naimish428&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://www.buymeacoffee.com/naimishpadhan" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50">
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/Naimish428">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naimish428&theme=tokyonight" alt="GitHub Streak" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Naimish428">
-    <img src="https://github-profile-trophy.vercel.app/?username=Naimish428&theme=tokyonight&row=1&column=6" alt="trophy" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Naimish428">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naimish428&theme=tokyonight" />
-  </a>
+  <p>Your support helps me continue creating open-source projects and tutorials!</p>
 </div>
 
 ---
