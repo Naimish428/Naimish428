@@ -11,13 +11,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Naimish+Padhan;Data+Scientist+%26+ML+Enthusiast;Turning+Data+into+Decisions;Building+AI-Powered+Solutions&color=FF0000,FF0000,FF0000,FF0000,FF0000,FF0000,FF0000" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Location-Odisha%2C%20India-orange?style=flat-square&logo=google-maps"></a>
-  <img src="https://komarev.com/ghpvc/?username=Naimish428&color=blue&style=flat-square" alt="Profile Views" />
-  <a href="https://github.com/Naimish428">
-    <img src="https://img.shields.io/github/followers/Naimish428?label=Follow&style=flat-square&logo=github" alt="GitHub followers">
-  </a>
-</div>
+
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
 
