@@ -8,7 +8,7 @@
   <a href="mailto:naimishpadhan428@gmail.com"><img src="https://img.shields.io/badge/Email-naimishpadhan428%40gmail.com-red?style=flat-square&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/naimish-padhan/"><img src="https://img.shields.io/badge/LinkedIn-naimish--padhan-blue?style=flat-square&logo=linkedin"></a>
   <a href="tel:+916371637395"><img src="https://img.shields.io/badge/Phone-%2B91%206371637395-green?style=flat-square&logo=whatsapp"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Location-Bihar%2C%20India-orange?style=flat-square&logo=google-maps"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Location-Odisha%2C%20India-orange?style=flat-square&logo=google-maps"></a>
 </div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
@@ -42,18 +42,6 @@ As a Data Scientist with a B.Sc. in Statistics and a Master's in Data Science an
 - Implemented natural language processing techniques to extract key concepts and generate educational content
 - **Technologies**: Python, NLP, TensorFlow, PyTorch, NLTK, Transformers
 - **Results**: Reduced content review time by 60% and improved study efficiency for users
-
-### 📊 [Titanic Survival Prediction](https://github.com/naimish-padhan/titanic-survival-prediction)
-- Developed a predictive model to determine the likelihood of survival for Titanic passengers
-- Applied logistic regression techniques to analyze passenger data and identify survival patterns
-- **Technologies**: Python, Pandas, Scikit-learn, Matplotlib
-- **Results**: Achieved a predictive model with 81% accuracy
-
-### 🎬 [Movies Rating Prediction](https://github.com/naimish-padhan/movie-rating-prediction)
-- Built a linear regression model to forecast movie ratings based on various features
-- Performed extensive data preprocessing and feature engineering to improve prediction accuracy
-- **Technologies**: Python, NumPy, Pandas, Scikit-learn
-- **Results**: Achieved 86% prediction accuracy
 
 ## <img src="https://media.giphy.com/media/gIkM6hiJfvSIIJCnKy/giphy.gif" width="25"> Education
 
