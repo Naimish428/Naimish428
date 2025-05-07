@@ -7,7 +7,6 @@
 <div align="center">
   <a href="mailto:naimishpadhan428@gmail.com"><img src="https://img.shields.io/badge/Email-naimishpadhan428%40gmail.com-red?style=flat-square&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/naimish-padhan/"><img src="https://img.shields.io/badge/LinkedIn-naimish--padhan-blue?style=flat-square&logo=linkedin"></a>
-  <a><img src="https://img.shields.io/badge/Phone-%2B91%206371637395-green?style=flat-square&logo=whatsapp"></a>
   <a href="#"><img src="https://img.shields.io/badge/Location-Odisha%2C%20India-orange?style=flat-square&logo=google-maps"></a>
 </div>
 
@@ -22,9 +21,16 @@ As a Data Scientist with a B.Sc. in Statistics and a Master's in Data Science an
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
   <img src="https://img.shields.io/badge/SPSS-5C2D91?style=for-the-badge&logo=ibm&logoColor=white" alt="SPSS" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/Data%20Visualization-FF4500?style=for-the-badge&logo=chart-dot-js&logoColor=white" alt="Data Visualization" />
   <img src="https://img.shields.io/badge/Statistics-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Statistics" />
 </p>
@@ -79,18 +85,38 @@ As a Data Scientist with a B.Sc. in Statistics and a Master's in Data Science an
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <a href="https://github.com/naimish-padhan">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naimish-padhan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naimish-padhan&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <a href="https://github.com/naimish-padhan">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=naimish-padhan&theme=tokyonight" alt="GitHub Streak" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/naimish-padhan">
+    <img src="https://github-profile-trophy.vercel.app/?username=naimish-padhan&theme=tokyonight&row=1&column=6" alt="trophy" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/naimish-padhan">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naimish-padhan&theme=tokyonight" />
+  </a>
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=naimish-padhan&color=blue" alt="Profile Views" />
+  <a href="https://github.com/naimish-padhan?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/naimish-padhan?style=social">
+  </a>
 </div>
 
 <div align="center">
