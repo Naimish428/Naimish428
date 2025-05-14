@@ -144,6 +144,7 @@ As a Data Scientist with a B.Sc. in Statistics and a Master's in Data Science an
 </div>
 
 <div align="center">
+  
   <p>📩 Feel free to reach out for collaborations or data science opportunities!</p>
   <p>💼 Open to work and excited to contribute to innovative data projects</p>
 </div>
