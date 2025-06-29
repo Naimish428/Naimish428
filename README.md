@@ -81,15 +81,18 @@ As a Data Scientist with a B.Sc. in Statistics and a Master's in Data Science an
           <b>Results:</b> Reduced content review time by 60% and improved study efficiency
         </p>
       </td>
-       <td width="50%">
-        <h3 align="center">##</h3>
+    </tr>
+     <!-- New Row Starts Here -->
+    <tr>
+      <td colspan="2">
+        <h3 align="center">🚧 Under Process</h3>
         <div align="center">
-          <a href="https://github.com/Naimish428/Smart-Lecture-Assistant" target="_blank">
+          <a href="##" target="_blank">
             <img src="https://img.shields.io/badge/Code-GitHub-blue?style=for-the-badge&logo=github" alt="GitHub Repository">
           </a>
         </div>
         <p align="center">
-         🚧 Currently Working On
+         Working on it 🤖
         </p>
       </td>
     </tr>
